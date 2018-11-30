@@ -61,6 +61,7 @@ Plus *lots* of Ruby Gems, a complete list of which is at [/master/Gemfile](https
 ## Contributing
 
 [![Build Status](https://api.travis-ci.org/discourse/discourse.svg?branch=master)](https://travis-ci.org/discourse/discourse)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftosst%2Fdiscourse.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftosst%2Fdiscourse?ref=badge_shield)
 
 Discourse is **100% free** and **open source**. We encourage and support an active, healthy community that
 accepts contributions from the public &ndash; including you!
@@ -102,6 +103,9 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 Discourse logo and “Discourse Forum” ®, Civilized Discourse Construction Kit, Inc.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftosst%2Fdiscourse.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftosst%2Fdiscourse?ref=badge_large)
 
 ## Dedication
 
